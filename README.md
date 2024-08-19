@@ -2,7 +2,9 @@
 
 # This repository showcases a content summarization system leveraging cutting-edge AI technologies:
 LangChain: A framework for building AI applications, facilitating the integration of large language models (LLMs) and other AI components.
+
 Groq: AI computing hardware, providing high-performance acceleration for machine learning workloads.
+
 Google Gemma 9B: A state-of-the-art LLM, offering exceptional natural language understanding and generation capabilities.
 System Overview:
 # This repository demonstrates a system capable of summarizing content from:
