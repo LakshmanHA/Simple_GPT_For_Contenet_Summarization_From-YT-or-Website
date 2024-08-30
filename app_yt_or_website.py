@@ -20,7 +20,7 @@ st.subheader('Summarize URL')
 generic_url=st.text_input("URL",label_visibility="collapsed")
 
 ## Gemma Model USsing Groq API
-llm =ChatGroq(model="Gemma-7b-It", groq_api_key="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")
+llm =ChatGroq(model="Gemma-7b-It", groq_api_key="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")
 
 prompt_template="""
 Provide a summary of the following content in 300 words:
